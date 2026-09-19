@@ -1,0 +1,23 @@
+{
+  "name": "javascript-arrays-and-more",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sfatima22/JavaScript-arrays-and-more#readme",
+  "bugs": {
+    "url": "https://github.com/Sfatima22/JavaScript-arrays-and-more/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sfatima22/JavaScript-arrays-and-more.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
