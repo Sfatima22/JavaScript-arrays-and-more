@@ -22,4 +22,8 @@
 // let arr = ["a", "b", "c"];
 // console.log(Object.getOwnPropertyNames(arr)) gives hidden properties as well unlike Object.keys()
 
+// const obj={}; 
+// obj.property="name";
+// console.log(Object.hasOwnProperty("name")); cgecks if the obj has a property or no 
+
 
