@@ -29,4 +29,8 @@ const obj2={};
 
 // console.log(Object.is(obj1,obj2));
 
-// console.log(Object.isExtensible(obj2)); checks if new properties can be addeed 
+// console.log(Object.isExtensible(obj2)); checks if new properties can be added 
+
+
+// Object.preventExtensions(obj1);
+// console.log(Object.isExtensible(obj1)); prevents from adding properties 
