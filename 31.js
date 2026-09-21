@@ -34,3 +34,7 @@ const obj2={};
 
 // Object.preventExtensions(obj1);
 // console.log(Object.isExtensible(obj1)); prevents from adding properties 
+
+// let empty = {};
+// console.log(Object.isSealed(empty)); // checks if an obj is sealed or not
+
