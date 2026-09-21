@@ -1,6 +1,6 @@
-// const obj1=[
-    // ["name" ,"fatima"],
-    // ["age", 21]];
+const obj1=[
+    ["name" ,"fatima"],
+    ["age", 21]];
 // console.log(Object.entries(obj)); //converts into an array
 // const str="fine";
 // console.log(Object.entries(str));
@@ -41,3 +41,6 @@ const obj2={};
 
 
 // console.log(Object.keys(student)); gives the keys of an obj 
+
+// 
+// console.log(obj1.propertyIsEnumerable("age")); checks if the property belongs to the obj 
