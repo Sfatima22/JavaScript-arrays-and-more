@@ -1,6 +1,6 @@
-const obj1=[
-    ["name" ,"fatima"],
-    ["age", 21]];
+// const obj1=[
+    // ["name" ,"fatima"],
+    // ["age", 21]];
 // console.log(Object.entries(obj)); //converts into an array
 // const str="fine";
 // console.log(Object.entries(str));
@@ -12,9 +12,9 @@ const obj1=[
 
 // console.log(Object.fromEntries(obj)); //converts obj to array
 
-// let stud ent = {
-    // name: "Shagufta"
-// };
+let student = {
+    name: "Shagufta"
+};
 // 
 // console.log(Object.getOwnPropertyDescriptor(student, "name"));  specifies the details  of the property 
 
@@ -38,3 +38,6 @@ const obj2={};
 // let empty = {};
 // console.log(Object.isSealed(empty)); // checks if an obj is sealed or not
 
+
+
+// console.log(Object.keys(student)); gives the keys of an obj 
