@@ -1,6 +1,6 @@
-// const obj=[
-    // ["name" ,"fatima"],
-    // ["age", 21]];
+const obj1=[
+    ["name" ,"fatima"],
+    ["age", 21]];
 // console.log(Object.entries(obj)); //converts into an array
 // const str="fine";
 // console.log(Object.entries(str));
@@ -22,8 +22,11 @@
 // let arr = ["a", "b", "c"];
 // console.log(Object.getOwnPropertyNames(arr)) gives hidden properties as well unlike Object.keys()
 
-// const obj={}; 
+const obj2={}; 
 // obj.property="name";
 // console.log(Object.hasOwnProperty("name")); cgecks if the obj has a property or no 
+
+
+console.log(Object.is(obj1,obj2));
 
 
