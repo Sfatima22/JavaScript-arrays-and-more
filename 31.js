@@ -1,6 +1,9 @@
-// const obj={name :"fatima", age:21}
+const obj={name :"fatima", age:21}
 // console.log(Object.entries(obj)); //converts into an array
 // const str="fine";
 // console.log(Object.entries(str));
 
 
+// Object.freeze(obj);
+// obj.name="kash";
+// console.log(obj) freezes an object it cannot be changed later
