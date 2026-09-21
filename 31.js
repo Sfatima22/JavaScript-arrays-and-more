@@ -27,6 +27,6 @@ const obj2={};
 // console.log(Object.hasOwnProperty("name")); cgecks if the obj has a property or no 
 
 
-console.log(Object.is(obj1,obj2));
+// console.log(Object.is(obj1,obj2));
 
-
+// console.log(Object.isExtensible(obj2)); checks if new properties can be addeed 
