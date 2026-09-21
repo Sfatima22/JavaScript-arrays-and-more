@@ -19,3 +19,7 @@
 // console.log(Object.getOwnPropertyDescriptor(student, "name"));  specifies the details  of the property 
 
 
+// let arr = ["a", "b", "c"];
+// console.log(Object.getOwnPropertyNames(arr)) gives hidden properties as well unlike Object.keys()
+
+
