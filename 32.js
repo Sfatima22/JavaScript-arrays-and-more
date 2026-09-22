@@ -39,6 +39,10 @@ let str2="there";
 // console.log(str1.localeCompare(str2)); compares two strings 
 
 
-// let name = "Ali";
+let name = "Ali";
 
 // console.log(name.padEnd(8, "-")); chnages the length of string by adding - to 8
+// console.log(name.padStart(6,"*")); 
+
+
+// console.log(name.repeat(5)); repeats 5 times 
