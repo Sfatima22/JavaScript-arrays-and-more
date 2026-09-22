@@ -56,3 +56,4 @@ let name = "hey there";
 // console.log(name.replaceAll("e", "i")); replace all e with i 
 
 
+// console.log(name.slice(2,6));givews from indedx 2 to 5  
