@@ -19,7 +19,7 @@
 
 
 let str1="hey there everyone"; 
-// let str2="there";
+let str2="there"; 
 // console.log(str1.concat(" ", str2)); attaches two string 
 
 
@@ -33,3 +33,12 @@ let str1="hey there everyone";
 
 
 // console.log(str1.includes("hey")); checks if the string consists of the given the string 
+
+
+
+// console.log(str1.localeCompare(str2)); compares two strings 
+
+
+// let name = "Ali";
+
+// console.log(name.padEnd(8, "-")); chnages the length of string by adding - to 8
