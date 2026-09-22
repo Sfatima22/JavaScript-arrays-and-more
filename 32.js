@@ -39,7 +39,7 @@ let str2="there";
 // console.log(str1.localeCompare(str2)); compares two strings 
 
 
-let name = "Ali";
+// let name = "Ali"; 
 
 // console.log(name.padEnd(8, "-")); chnages the length of string by adding - to 8
 // console.log(name.padStart(6,"*")); 
@@ -49,3 +49,10 @@ let name = "Ali";
 
 
 // console.log(name.replace("Ali", "Joe")); to replace the str 
+
+
+let name = "hey there";
+
+// console.log(name.replaceAll("e", "i")); replace all e with i 
+
+
