@@ -44,3 +44,21 @@ const obj2={};
 
 // 
 // console.log(obj1.propertyIsEnumerable("age")); checks if the property belongs to the obj 
+
+
+
+// let Animal = {
+//   makeSound() {
+    // console.log(`${this.name}, ${this.sound}!`);
+//   },m
+// };
+// function Dog(name) {
+//   this.name = name;
+//   this.sound = "bark";
+//   // setting prototype to Animal
+//   Object.setPrototypeOf(this, Animal);
+// }
+
+// dog1 = new Dog("Marcus");
+
+// dog1.makeSound();
