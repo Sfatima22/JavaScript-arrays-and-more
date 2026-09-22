@@ -51,9 +51,17 @@ let str2="there";
 // console.log(name.replace("Ali", "Joe")); to replace the str 
 
 
-let name = "hey there";
+// let name = "hey there";
 
 // console.log(name.replaceAll("e", "i")); replace all e with i 
 
 
 // console.log(name.slice(2,6));givews from indedx 2 to 5  
+
+
+// console.log(name.split(" "));
+
+
+// let n16 = "A.B.C.D.E.F";
+
+// console.log(n16.split(".")); splits from . 
