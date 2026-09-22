@@ -46,3 +46,6 @@ let name = "Ali";
 
 
 // console.log(name.repeat(5)); repeats 5 times 
+
+
+// console.log(name.replace("Ali", "Joe")); to replace the str 
