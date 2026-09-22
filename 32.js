@@ -18,6 +18,18 @@
 // console.log(result);
 
 
-// let str1="hey";
+let str1="hey there everyone"; 
 // let str2="there";
 // console.log(str1.concat(" ", str2)); attaches two string 
+
+
+// console.log(str1.endsWith("everyone")); checks if the string ends with given word letter etc 
+
+
+// let result = String.fromCharCode(65, 66, 67);
+// 
+// console.log(result); converts to unicode 
+
+
+
+// console.log(str1.includes("hey")); checks if the string consists of the given the string 
