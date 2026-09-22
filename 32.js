@@ -62,6 +62,9 @@ let str2="there";
 // console.log(name.split(" "));
 
 
-// let n16 = "A.B.C.D.E.F";
+let n16 = "A.B.C.D.E.F"; 
 
 // console.log(n16.split(".")); splits from . 
+
+
+// console.log(n16.substring("2","5")); gives from index 2-5 
